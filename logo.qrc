@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>贴图库/logo.png</file>
+        <file>贴图库/OIP.jpg</file>
+        <file>贴图库/易</file>
+        <file>贴图库/35643.jpg</file>
+        <file>贴图库/建成.jpg</file>
+        <file>贴图库/123123.jpg</file>
+        <file>贴图库/OIP-C.jpg</file>
+    </qresource>
+</RCC>
